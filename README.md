@@ -1,0 +1,2 @@
+# ServiceTokenManagementAndAnalysis
+ Service Token Management and Analysis  is a web based application designed for a Healthcare and Diagnostics organization to monitor, track and analyze the patients waiting times, service times and anomalies to provide effective intelligent Queue management system. It consists of the following modules. Token Generator, Token tracking during the patient session, Daily Reports for Token Statistics and anomalies.
